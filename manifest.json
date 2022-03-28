@@ -1,0 +1,9 @@
+{
+    "name": "J-Coleify",
+    "description": "J-Coleify a webpage!!!",
+    "version": "1.0",
+    "manifest_version": 3,
+    "background": {
+        "service_worker": "scripts/background.js"
+    }
+  }
